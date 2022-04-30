@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1_55AmfdW445X34_HMHWKFEfuD4fdyHXl/view?usp=shari
 Unzip this file to a folder called data/, and place it in the ScalpelSigV2 root directory
 
 ### SignatureEstimation 
-Run the following command in the ScalpelSig V2 root directory to download the repository: \n
+Run the following command in the ScalpelSig V2 root directory to download the repository:  
 git clone https://github.com/lrgr/signature-estimation-py.git
 
 ### Running Experiments
